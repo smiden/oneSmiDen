@@ -1,0 +1,72 @@
+
+@media screen and (max-width: 1200px)
+{ 
+.project-img { background: url(../../../img/5page/page5-book350.png); height: 237px; width: 350px;display: block;}
+.project-img:hover { height: 235px; width: 350px;background: url(../../../img/5page/page5plus350.png); -webkit-box-shadow: 0 10px 10px rgba(0,0,0,.2); -moz-box-shadow: 0 10px 10px rgba(0,0,0,.2); box-shadow: 0 10px 10px rgba(0,0,0,.2) ;transition-duration: 0.9s; }
+.content__sixcl2 { max-width: 479px; }
+.content__six--sl2:after {   display: none; }
+
+}
+
+@media screen and (max-width: 965px)
+{ 
+.content__title { margin-left: 10%; }	
+.project-img { background: url(../../../img/5page/page5-book250.png); height: 169px; width: 250px;display: block;}
+.project-img:hover { height: 167px; width: 250px;background: url(../../../img/5page/page5plus250.png); -webkit-box-shadow: 0 10px 10px rgba(0,0,0,.2); -moz-box-shadow: 0 10px 10px rgba(0,0,0,.2); box-shadow: 0 10px 10px rgba(0,0,0,.2) ;transition-duration: 0.9s; }
+.content__sixcl2 { max-width: 370px; }
+.content__six--sl2:after {   display: none; }
+.content__six--sl2:before {   display: none; }
+.social--icon {margin-left: 5px;}
+.content__one, .content__two, .content__three, .content__four, .content__five, .content__six, .content__seven, .content__eight, .content__nine 
+{ padding-left: 0; }
+.menu {display: none;}
+.menu__fix {display: none;}
+
+}
+@media screen and (max-width: 600px)
+{ 
+.left-adaptive { display: none; }
+.project-img { background: url(../../../img/page5-book1.png); height: 308px; width: 453px;display: block;}
+.project-img:hover { height: 308px; width: 453px;background: url(../../../img/page5plus.png); -webkit-box-shadow: 0 10px 10px rgba(0,0,0,.2); -moz-box-shadow: 0 10px 10px rgba(0,0,0,.2); box-shadow: 0 10px 10px rgba(0,0,0,.2) ;transition-duration: 0.9s; }
+.content__sixcl2 { max-width: 270px; }
+.page--title { text-align: center; }
+.page--title img { margin: 0 auto; }
+.educ--price, .educ--graf{width: 90%;}
+.content__two {height: 400px;}
+.content__three, .content__four { height: 600px; }
+.content__five { height: 650px; }
+.content__six { height: 500px; }
+.content__seven { height: 700px; }
+.left-adaptive { display: none; }
+.content__nine  { height: 1100px; }
+.content__social,.content__mail {width: 90%; height: 500px; }
+
+}
+
+@media screen and (max-width: 500px)
+{ .content__title p { font-size: 15px; }
+.project-img { background: url(../../../img/5page/page5-book350.png); height: 237px; width: 350px;display: block;}
+.project-img:hover { height: 235px; width: 350px;background: url(../../../img/5page/page5plus350.png); -webkit-box-shadow: 0 10px 10px rgba(0,0,0,.2); -moz-box-shadow: 0 10px 10px rgba(0,0,0,.2); box-shadow: 0 10px 10px rgba(0,0,0,.2) ;transition-duration: 0.9s; }
+
+}
+
+
+
+
+@media screen and (max-width: 450px)
+{ 
+.content__two {height: 370px;}
+.edic--resent {width: 95%; margin-left: -9%;}
+.edic--resent span {width: 300px; text-align: center; }
+.edic--resent p {width: 300px; text-align: center; }
+.content__five { height: 490px; }
+.content__sixcl2 { max-width: 200px; margin-left: }
+.slick-prev {left: -30%;  }
+.content__six {height: 550px;}
+}
+
+
+@media screen and (max-width: 350px)
+{ 
+.content__title p { font-size: 12px;
+}
